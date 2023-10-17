@@ -11,4 +11,4 @@ This is a simple To-Do App built with **React** and **Chakra UI**. This app is a
 
 ### Live app
 
-[***dumindapriyasad.github.io/todo-app***](https://dumindapriyasad.github.io/todo-app/)
+[***srinivas.github.io/todo-app***](https://dumindapriyasad.github.io/todo-app/)
